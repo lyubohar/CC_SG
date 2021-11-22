@@ -2,7 +2,7 @@
 <iscache type="relative" hour="24"/>
 <isdecorate template="content/home/pt_storefront">
 
-<iscomment>this is the template rendering the homepage</iscomment>
+<iscomment>A playground/test template, based on homepage</iscomment>
 <!-- +1.888.553.XXXX --><!--This phone is a requirement to support existing Gomez monitor of SiteGenesis. Demadware customers can remove this.-->
 
 	<h1 style="text-align: center; padding: 15px 0; background-color: gray; color: white;">Current URL parameter is: <strong style="color: cyan;">${pdict.CurrentHttpParameterMap.cid.value}</strong></h1>
